@@ -34,3 +34,18 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 ---
+
+## Interactive Data Visualization for Production Quality
+
+**Status:** Completed  
+**Description:** Development of a Power BI dashboard for visualizing production quality data and KPIs, created as part of a bachelor thesis to support data-driven decision-making.  
+**Key Features:**  
+- Integration of data from multiple sources into a unified data model  
+- Role-specific visualizations for management and operators  
+- Fully automated data pipeline for continuous updates  
+
+<img src="images/powerbi_example.png?raw=true"/>
+
+[![](https://img.shields.io/badge/PowerBI-white)](#) [![](https://img.shields.io/badge/DAX-white)](#) [![](https://img.shields.io/badge/PowerQuery%20M-white)](#)
+
+---
